@@ -21,4 +21,7 @@ I work on **autonomous AI systems, AI accelerators, computer architecture, and h
 
 ## Contact
 
-[Email](mailto:sufeng_guo@smail.nju.edu.cn) · [Argus](https://argusbot.cn)
+Feel free to contact me!
+[Email/school](mailto:sufeng_guo@smail.nju.edu.cn) 
+[Email/gmail](mailto:hapouterwall@gmail.com)
+[Email/qq](mailto:sufeng_guo@qq.com)
