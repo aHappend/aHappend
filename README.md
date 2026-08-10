@@ -22,6 +22,6 @@ I work on **autonomous AI systems, AI accelerators, computer architecture, and h
 ## Contact
 
 Feel free to contact me!
-- [Email/school](mailto:sufeng_guo@smail.nju.edu.cn) sufeng_guo@smail.nju.edu.cn
-- [Email/gmail](mailto:hapouterwall@gmail.com) hapouterwall@gmail.com
-- [Email/qq](mailto:sufeng_guo@qq.com) sufeng_guo@qq.com
+- [Email/school](mailto:sufeng_guo@smail.nju.edu.cn) `sufeng_guo@smail.nju.edu.cn`
+- [Email/gmail](mailto:hapouterwall@gmail.com) `hapouterwall@gmail.com`
+- [Email/qq](mailto:sufeng_guo@qq.com) `sufeng_guo@qq.com`
