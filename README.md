@@ -10,7 +10,7 @@ I work on **autonomous AI systems, AI accelerators, computer architecture, and h
 
 ## Projects
 
-- [Argus](https://github.com/lbx154/Argus) - Open autonomous research runtime connecting execution, verification, and evidence
+- [Argus](https://github.com/lbx154/Argus) - Open autonomous research runtime connecting execution, verification, and evidence [Technical Report](https://arxiv.org/abs/2608.05144)
 - [ACE-2/personal](https://github.com/aHappend/ace-2)/[ACE-2/organization](https://github.com/Argus-AiTeam/ace-2)- Qwen2.5-0.5B W4A8 accelerator RTL with certified two-token integration and SKY130 timing results
 - [64-Point FFT](https://github.com/aHappend/Hardware-Implementation-and-Optimization-of-64-Point-FFT) - Radix-2 DIT FFT in SystemVerilog with SDF/folding and Python/NumPy co-verification
 - [Two-Stage CMOS Op-Amp](https://github.com/aHappend/design-and-simulation-of-a-two-stage-cmos-operational-amplifier) - TSMC 0.18 um analog design and Spectre simulation package
