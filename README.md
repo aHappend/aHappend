@@ -4,6 +4,8 @@ Undergraduate at **Nanjing University** (Integrated Circuit Design and Integrate
 
 I work on **autonomous AI systems, AI accelerators, computer architecture, and hardware-software co-design**.
 
+**Personal website:** [ahappend.github.io](https://ahappend.github.io/)
+
 ## Education
 
 - **Nanjing University** — Integrated Circuit Design and Integrated Systems
