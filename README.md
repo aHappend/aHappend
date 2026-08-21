@@ -10,10 +10,10 @@ I work on **autonomous AI systems, AI accelerators, computer architecture, and h
 
 ## Projects
 
-- [Argus/original](https://github.com/lbx154/Argus)/[Argus Agent/Microsoft](https://github.com/microsoft/ArgusAgent) - Open autonomous research runtime connecting execution, verification, and evidence. Here is the [Technical Report](https://arxiv.org/abs/2608.05144).
-- [ACE-2/personal](https://github.com/aHappend/ace-2)/[ACE-2/organization](https://github.com/Argus-AiTeam/ace-2) - Qwen2.5-0.5B W4A8 accelerator RTL with certified two-token integration and SKY130 timing results
-- [64-Point FFT](https://github.com/aHappend/Hardware-Implementation-and-Optimization-of-64-Point-FFT) - Radix-2 DIT FFT in SystemVerilog with SDF/folding and Python/NumPy co-verification
-- [Two-Stage CMOS Op-Amp](https://github.com/aHappend/design-and-simulation-of-a-two-stage-cmos-operational-amplifier) - TSMC 0.18 um analog design and Spectre simulation package
+- [Argus/original](https://github.com/lbx154/Argus)/[Argus Agent/Microsoft](https://github.com/microsoft/ArgusAgent) - Open multi-agent runtime for long-horizon research and engineering, combining persistent state, reviewed execution, verification, and evidence. Here is the [Technical Report](https://arxiv.org/abs/2608.05144).
+- [ACE-2/personal](https://github.com/aHappend/ace-2)/[ACE-2/organization](https://github.com/Argus-AiTeam/ace-2) - Argus-built Qwen2.5-0.5B W4A8 accelerator with SystemVerilog RTL, certified two-token integration, SKY130 100 MHz results, and evidence-first host-trust recovery.
+- [64-Point FFT](https://github.com/aHappend/Hardware-Implementation-and-Optimization-of-64-Point-FFT) - Resource-efficient radix-2 DIT FFT in SystemVerilog using folded streaming SDF RTL, Q1.15 fixed-point arithmetic, Vivado/XSim simulation, Python/NumPy co-verification, and Virtex-7 implementation results.
+- [Two-Stage CMOS Op-Amp](https://github.com/aHappend/design-and-simulation-of-a-two-stage-cmos-operational-amplifier) - Two-stage CMOS operational amplifier in TSMC 0.18 um technology, with Miller compensation, Spectre AC/DC/transient verification, and analysis of gain, bandwidth, phase margin, slew rate, output swing, and power.
 
 ## Publications
 
