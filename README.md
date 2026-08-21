@@ -4,9 +4,20 @@ Undergraduate at **Nanjing University** (Integrated Circuit Design and Integrate
 
 I work on **autonomous AI systems, AI accelerators, computer architecture, and hardware-software co-design**.
 
+## Education
+
+- **Nanjing University** — Integrated Circuit Design and Integrated Systems
+- Expected graduation: 2027
+
 ## Interests
 
 `Autonomous AI` `DNN Mapping` `Scheduling` `NoC` `RTL` `Edge AI` `Reproducible Systems`
+
+## Currently Working On
+
+- DNN mapping and inter-layer scheduling for tiled accelerators
+- Hardware-software co-design for AI accelerators
+- Evidence-driven autonomous research and engineering systems
 
 ## Projects
 
