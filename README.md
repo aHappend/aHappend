@@ -11,10 +11,10 @@ I work on **autonomous AI systems, AI accelerators, computer architecture, and h
 - **Nanjing University** — Integrated Circuit Design and Integrated Systems
 - Expected graduation: 2027
 
-### Senior-Year Course Projects
+### Upcoming Academic and Research Experiences
 
-- [64-Point FFT](https://github.com/aHappend/Hardware-Implementation-and-Optimization-of-64-Point-FFT) — SystemVerilog implementation of a folded streaming SDF architecture, with Vivado/XSim and Python/NumPy co-verification.
-- [Two-Stage CMOS Operational Amplifier](https://github.com/aHappend/design-and-simulation-of-a-two-stage-cmos-operational-amplifier) — TSMC 0.18 μm design with Miller compensation and Spectre AC/DC/transient verification.
+- **Microsoft Research Asia (MSRA)** — Incoming Intern, Systems Research Group, Beijing, September–December 2026; selected to work with Xian Zhang on systems research.
+- **Nanyang Technological University (NTU), Singapore** — Government-Sponsored Visiting Undergraduate, January–May 2027.
 
 ## Interests
 
