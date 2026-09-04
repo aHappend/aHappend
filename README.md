@@ -14,8 +14,8 @@ I work on **autonomous AI systems, AI accelerators, computer architecture, and h
 
 ### Upcoming Academic and Research Experiences
 
-- **Microsoft Research Asia (MSRA)** — Incoming Intern, [Systems Research Group](https://www.microsoft.com/en-us/research/group/systems-research-group-asia/), Beijing, September–December 2026; selected to work with Xian Zhang on systems research.
-- **[Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/education/student-exchanges/exchange-programmes/inbound-programmes)** — Government-Sponsored Visiting Undergraduate, January–May 2027.
+- **Microsoft Research Asia (MSRA)** — Incoming Intern, Systems Research Group, Beijing, September–December 2026; selected to work with Xian Zhang on systems research. [Group website ↗](https://www.microsoft.com/en-us/research/group/systems-research-group-asia/)
+- **Nanyang Technological University (NTU), Singapore** — Government-Sponsored Visiting Undergraduate, January–May 2027. [Programme website ↗](https://www.ntu.edu.sg/education/student-exchanges/exchange-programmes/inbound-programmes)
 
 ## Interests
 
