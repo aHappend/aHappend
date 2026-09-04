@@ -9,6 +9,7 @@ I work on **autonomous AI systems, AI accelerators, computer architecture, and h
 ## Education
 
 - **Nanjing University** — Integrated Circuit Design and Integrated Systems
+- Campus locations: Nanjing (Year 1); Suzhou (Years 2–4)
 - Expected graduation: 2027
 
 ### Upcoming Academic and Research Experiences
