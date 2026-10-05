@@ -4,7 +4,7 @@ Undergraduate at **Nanjing University** (VLSI Design & System Integration), grad
 
 I work on **autonomous AI systems, AI accelerators, computer architecture, and hardware-software co-design**.
 
-**Personal website:** [ahappend.github.io](https://ahappend.github.io/)
+**Personal website:** <https://ahappend.github.io/>
 
 ## Education & Experience
 
@@ -41,10 +41,15 @@ I work on **autonomous AI systems, AI accelerators, computer architecture, and h
 - [HyperCut: Fast Inter-Layer Scheduling via Directed Hypergraph and Early Filtering](https://arxiv.org/abs/2608.19296) — Early filtering and hypergraph-based inter-layer scheduling for tiled DNN accelerators.
 - [Argus: A General-Purpose Agentic Reasoning Runtime for Long-Horizon Tasks](https://arxiv.org/abs/2608.05144) — A persistent, self-evolving runtime for long-horizon agentic reasoning.
 
-## Research Profiles
+## External Links
 
-- [arXiv Author Profile](https://arxiv.org/a/0009-0002-5674-7448.html)
-- [ORCID](https://orcid.org/0009-0002-5674-7448)
+- Personal website: <https://ahappend.github.io/>
+- arXiv Author Profile: <https://arxiv.org/a/0009-0002-5674-7448.html>
+- ORCID: <https://orcid.org/0009-0002-5674-7448>
+- X: <https://x.com/hapouterwall>
+- Instagram: <https://instagram.com/hapouterwall>
+- YouTube: <https://www.youtube.com/@hapouterwall>
+- Linktree: <https://linktr.ee/sufeng_guo>
 
 ## Tools
 
@@ -52,6 +57,6 @@ I work on **autonomous AI systems, AI accelerators, computer architecture, and h
 
 ## Contact
 
-- [Nanjing University email](mailto:sufeng_guo@smail.nju.edu.cn)
-- [Gmail](mailto:hapouterwall@gmail.com)
-- [QQ Mail](mailto:sufeng_guo@qq.com)
+- Nanjing University: [sufeng_guo@smail.nju.edu.cn](mailto:sufeng_guo@smail.nju.edu.cn)
+- Gmail: [hapouterwall@gmail.com](mailto:hapouterwall@gmail.com)
+- QQ Mail: [sufeng_guo@qq.com](mailto:sufeng_guo@qq.com)
