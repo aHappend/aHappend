@@ -38,8 +38,8 @@ I work on **autonomous AI systems, AI accelerators, computer architecture, and h
 
 ## Publications
 
-- [HyperCut: Fast Inter-Layer Scheduling via Directed Hypergraph and Early Filtering](https://arxiv.org/abs/2608.19296) — Early filtering and hypergraph-based inter-layer scheduling for tiled DNN accelerators.
-- [Argus: A General-Purpose Agentic Reasoning Runtime for Long-Horizon Tasks](https://arxiv.org/abs/2608.05144) — A persistent, self-evolving runtime for long-horizon agentic reasoning.
+- [HyperCut: Fast Inter-Layer Scheduling via Directed Hypergraph and Early Filtering](https://arxiv.org/abs/2608.19296) `https://arxiv.org/abs/2608.19296` — Early filtering and hypergraph-based inter-layer scheduling for tiled DNN accelerators.
+- [Argus: A General-Purpose Agentic Reasoning Runtime for Long-Horizon Tasks](https://arxiv.org/abs/2608.05144) `https://arxiv.org/abs/2608.05144` — A persistent, self-evolving runtime for long-horizon agentic reasoning.
 
 ## External Links
 
