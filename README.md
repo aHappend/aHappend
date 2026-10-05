@@ -1,22 +1,20 @@
 # Hi, I'm Sufeng Guo
 
-Undergraduate at **Nanjing University** (Integrated Circuit Design and Integrated Systems), graduating in 2027.
+Undergraduate at **Nanjing University** (VLSI Design & System Integration), graduating in 2027.
 
 I work on **autonomous AI systems, AI accelerators, computer architecture, and hardware-software co-design**.
 
 **Personal website:** [ahappend.github.io](https://ahappend.github.io/)
 
-## Education
+## Education & Experience
 
-- **Nanjing University** — Integrated Circuit Design and Integrated Systems
+- **Nanjing University** — VLSI Design & System Integration
 - Campus locations: Nanjing (Year 1); Suzhou (Years 2–4)
 - Expected graduation: 2027
 
-### Upcoming Academic and Research Experiences
-
 | Period | Experience |
 | --- | --- |
-| **Sep–Dec 2026** | **Microsoft Research Asia (MSRA)** — Incoming Intern, Systems Research Group, Beijing; selected to work with Xian Zhang on systems research. [Group website ↗](https://www.microsoft.com/en-us/research/group/systems-research-group-asia/) |
+| **Sep–Dec 2026** | **Microsoft Research Asia (MSRA)** — Research Intern, Systems Research Group, Beijing. [Group website ↗](https://www.microsoft.com/en-us/research/group/systems-research-group-asia/) |
 | **Jan–May 2027** | **Nanyang Technological University (NTU), Singapore** — Government-Sponsored Visiting Undergraduate. [Program website ↗](https://www.ntu.edu.sg/education/student-exchanges/exchange-programmes/inbound-programmes) |
 
 ## Interests
@@ -32,18 +30,16 @@ I work on **autonomous AI systems, AI accelerators, computer architecture, and h
 
 ## Projects
 
-- [Argus/original](https://github.com/lbx154/Argus)/[Argus Agent/Microsoft](https://github.com/microsoft/ArgusAgent) - Open multi-agent runtime for long-horizon research and engineering, combining persistent state, reviewed execution, verification, and evidence. Here is the [Technical Report](https://arxiv.org/abs/2608.05144).
-- [ACE-3/personal](https://github.com/aHappend/ace-3)/[ACE-3/organization](https://github.com/Argus-AiTeam/ace-3) **(active development)** - An evolving open research RTL project for native AWQ W4A16 transformer inference, with independently checked arithmetic, full-input projection, FP16 adaptation, QKV/RoPE/KV-cache, attention, and decoder building blocks. This is a research preview, not yet a complete 24-layer accelerator or hardware-performance result.
-- [ACE-2/personal](https://github.com/aHappend/ace-2)/[ACE-2/organization](https://github.com/Argus-AiTeam/ace-2) - Argus-built Qwen2.5-0.5B W4A8 accelerator with SystemVerilog RTL, certified two-token integration, SKY130 100 MHz results, and evidence-first host-trust recovery.
-- [64-Point FFT](https://github.com/aHappend/Hardware-Implementation-and-Optimization-of-64-Point-FFT) - Resource-efficient radix-2 DIT FFT in SystemVerilog using folded streaming SDF RTL, Q1.15 fixed-point arithmetic, Vivado/XSim simulation, Python/NumPy co-verification, and Virtex-7 implementation results.
-- [Two-Stage CMOS Op-Amp](https://github.com/aHappend/design-and-simulation-of-a-two-stage-cmos-operational-amplifier) - Two-stage CMOS operational amplifier in TSMC 0.18 um technology, with Miller compensation, Spectre AC/DC/transient verification, and analysis of gain, bandwidth, phase margin, slew rate, output swing, and power.
+- [Argus/original](https://github.com/lbx154/Argus) / [ArgusAgent/Microsoft](https://github.com/microsoft/ArgusAgent) — Open multi-agent runtime for long-horizon research and engineering, combining persistent state, reviewed execution, verification, and evidence. [Technical report ↗](https://arxiv.org/abs/2608.05144)
+- [ACE-3/personal](https://github.com/aHappend/ace-3) / [ACE-3/organization](https://github.com/Argus-AiTeam/ace-3) — Argus-built, evidence-first Qwen2.5-0.5B-Instruct-AWQ W4A16 RTL with a verified 24-layer cascade and authenticated Hybrid RTL runtime.
+- [ACE-2/personal](https://github.com/aHappend/ace-2) / [ACE-2/organization](https://github.com/Argus-AiTeam/ace-2) — Argus-built Qwen2.5-0.5B W4A8 accelerator with SystemVerilog RTL, certified two-token integration, SKY130 100 MHz results, and evidence-first host-trust recovery.
+- [64-Point FFT](https://github.com/aHappend/64-point-fft-hardware) — Resource-efficient radix-2 DIT FFT in SystemVerilog using folded streaming SDF RTL, Q1.15 fixed-point arithmetic, Vivado/XSim simulation, Python/NumPy co-verification, and Virtex-7 implementation results.
+- [Two-Stage CMOS Op-Amp](https://github.com/aHappend/two-stage-cmos-op-amp) — Two-stage CMOS operational amplifier in TSMC 0.18 μm technology, with Miller compensation and Spectre AC/DC/transient verification.
 
 ## Publications
 
-- [HyperCut: Fast Inter-Layer Scheduling via Directed Hypergraph and Early Filtering](https://arxiv.org/abs/2608.19296) — Academic paper on early filtering and hypergraph-based inter-layer scheduling for tiled DNN accelerators.  
-  arXiv: https://arxiv.org/abs/2608.19296
-- [Argus: A General-Purpose Agentic Reasoning Runtime for Long-Horizon Tasks](https://arxiv.org/abs/2608.05144) — Technical report on a persistent, self-evolving runtime for long-horizon agentic reasoning.  
-  arXiv: https://arxiv.org/abs/2608.05144
+- [HyperCut: Fast Inter-Layer Scheduling via Directed Hypergraph and Early Filtering](https://arxiv.org/abs/2608.19296) — Early filtering and hypergraph-based inter-layer scheduling for tiled DNN accelerators.
+- [Argus: A General-Purpose Agentic Reasoning Runtime for Long-Horizon Tasks](https://arxiv.org/abs/2608.05144) — A persistent, self-evolving runtime for long-horizon agentic reasoning.
 
 ## Research Profiles
 
@@ -56,7 +52,6 @@ I work on **autonomous AI systems, AI accelerators, computer architecture, and h
 
 ## Contact
 
-Feel free to contact me!
-- [Email/school(Nanjing University)](mailto:sufeng_guo@smail.nju.edu.cn) `sufeng_guo@smail.nju.edu.cn`
-- [Email/gmail](mailto:hapouterwall@gmail.com) `hapouterwall@gmail.com`
-- [Email/qq](mailto:sufeng_guo@qq.com) `sufeng_guo@qq.com`
+- [Nanjing University email](mailto:sufeng_guo@smail.nju.edu.cn)
+- [Gmail](mailto:hapouterwall@gmail.com)
+- [QQ Mail](mailto:sufeng_guo@qq.com)
