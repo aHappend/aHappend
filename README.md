@@ -4,7 +4,7 @@ Undergraduate at **Nanjing University** (VLSI Design & System Integration), grad
 
 I work on **autonomous AI systems, AI accelerators, computer architecture, and hardware-software co-design**.
 
-**Personal website:** <https://ahappend.github.io/>
+**Personal website:** [Website](https://ahappend.github.io/) `https://ahappend.github.io/`
 
 ## Education & Experience
 
@@ -43,13 +43,13 @@ I work on **autonomous AI systems, AI accelerators, computer architecture, and h
 
 ## External Links
 
-- Personal website: <https://ahappend.github.io/>
-- arXiv Author Profile: <https://arxiv.org/a/0009-0002-5674-7448.html>
-- ORCID: <https://orcid.org/0009-0002-5674-7448>
-- X: <https://x.com/hapouterwall>
-- Instagram: <https://instagram.com/hapouterwall>
-- YouTube: <https://www.youtube.com/@hapouterwall>
-- Linktree: <https://linktr.ee/sufeng_guo>
+- [Personal website](https://ahappend.github.io/) `https://ahappend.github.io/`
+- [arXiv Author Profile](https://arxiv.org/a/0009-0002-5674-7448.html) `https://arxiv.org/a/0009-0002-5674-7448.html`
+- [ORCID](https://orcid.org/0009-0002-5674-7448) `https://orcid.org/0009-0002-5674-7448`
+- [X](https://x.com/hapouterwall) `https://x.com/hapouterwall`
+- [Instagram](https://instagram.com/hapouterwall) `https://instagram.com/hapouterwall`
+- [YouTube](https://www.youtube.com/@hapouterwall) `https://www.youtube.com/@hapouterwall`
+- [Linktree](https://linktr.ee/sufeng_guo) `https://linktr.ee/sufeng_guo`
 
 ## Tools
 
@@ -57,6 +57,6 @@ I work on **autonomous AI systems, AI accelerators, computer architecture, and h
 
 ## Contact
 
-- Nanjing University: [sufeng_guo@smail.nju.edu.cn](mailto:sufeng_guo@smail.nju.edu.cn)
-- Gmail: [hapouterwall@gmail.com](mailto:hapouterwall@gmail.com)
-- QQ Mail: [sufeng_guo@qq.com](mailto:sufeng_guo@qq.com)
+- [Nanjing University email](mailto:sufeng_guo@smail.nju.edu.cn) `sufeng_guo@smail.nju.edu.cn`
+- [Gmail](mailto:hapouterwall@gmail.com) `hapouterwall@gmail.com`
+- [QQ Mail](mailto:sufeng_guo@qq.com) `sufeng_guo@qq.com`
