@@ -21,7 +21,13 @@ I work on **AI accelerator architecture, hardware-software co-design, and eviden
 
 **Methods:** DNN mapping, inter-layer scheduling, NoC and memory-system data movement. I contribute to [HyperCut](https://arxiv.org/abs/2608.19296) and maintain a [Crane reproduction lab](https://github.com/aHappend/Crane).
 
-**Systems:** [Argus / Microsoft](https://github.com/microsoft/ArgusAgent) · [original project](https://github.com/lbx154/Argus) provides a persistent multi-agent runtime. [Vulcan](https://ahappend.github.io/vulcan/) is an independently developed, Argus-compatible hardware engineering system for scoped RTL implementation, verification, independent review and reproducible delivery.
+### Argus — team contributions
+
+With **Argus AI Team**, I contribute to [Argus / Microsoft](https://github.com/microsoft/ArgusAgent) · [original project](https://github.com/lbx154/Argus), a persistent multi-agent runtime, its chip-design vertical, interfaces and evidence-driven evaluation.
+
+### Vulcan — independent project
+
+[Vulcan](https://ahappend.github.io/vulcan/) is an independent AI-native hardware engineering project, **not part of Argus AI Team**. It connects scoped RTL implementation, verification, independent review and reproducible delivery. Its public portfolio includes ANVIL E/Q, RIVET/BILLET, SABLE and ten component IPs.
 
 ### AI accelerator families
 
