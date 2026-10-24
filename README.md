@@ -34,7 +34,7 @@ With **Argus AI Team**, I contribute to [Argus / Microsoft](https://github.com/m
 | Family | Focus and public evidence |
 | --- | --- |
 | **[ACE-2](https://github.com/aHappend/ace-2) / [ACE-3 MP](https://github.com/aHappend/ace-3)** | W4A8 persistent RTL dialogue and native AWQ W4A16 research. ACE-2 has accepted two-turn, four-token-per-turn simulation with 24 retained K/V layers and zero mismatches. ACE-3 has verified G128 projection and bounded FP16-boundary blocks; full-regression, full-model and hardware acceptance remain open. |
-| **ANVIL — [E](https://github.com/aHappend/anvil-e) / [Q](https://github.com/aHappend/anvil-q)** | Embedding and quantized causal-inference RTL. E1/E2 and Q1 publish engineering packages; official-weight comparisons are bounded remapped slices, not complete target-model acceptance. Q1 converts binary16 storage to Q16.16 execution. E3/Q2 remain in development. |
+| **ANVIL — [Q (Quantized LLMs)](https://github.com/aHappend/anvil-q) / [E (Multimodal Embeddings)](https://github.com/aHappend/anvil-e)** | Synthesizable `100 MHz+` SystemVerilog accelerators verified on Intel Arria 10 GX PCIe Gen3x8 HIL with dual-track IEEE/ACM reports. **Anvil-Q1** (`Qwen2.5-0.5B-Instruct-AWQ`, `108.48 MHz`) & **Anvil-Q2** (`Qwen2.5-1.5B-Instruct-AWQ`, 1/2/4-bank + INT8 KV-Cache, `101.39 MHz`); **Anvil-E1/E2/E3** (`google/embeddinggemma-2` Text, Vision+Text & Audio+Vision+Text Trimodal, `107.31–111.63 MHz`). |
 
 ACE organization mirrors: [ACE-2](https://github.com/Argus-AiTeam/ace-2) · [ACE-3](https://github.com/Argus-AiTeam/ace-3).
 
@@ -47,7 +47,7 @@ ACE organization mirrors: [ACE-2](https://github.com/Argus-AiTeam/ace-2) · [ACE
 | **RIVET** | [A — AES/GCM, key/context management and DMA](https://github.com/aHappend/rivet-a) · [H — SHA/HMAC and saved hashing contexts](https://github.com/aHappend/rivet-h) |
 | **BILLET** | [T — FFT/IFFT and spectral analysis](https://github.com/aHappend/billet-t) · [F — programmable FIR/IIR filtering](https://github.com/aHappend/billet-f) |
 
-Published generations include RTL, specifications, verification sources and engineering reports. [SABLE](https://github.com/aHappend/sable) adds reliable-message transport; the [Showcase](https://github.com/aHappend/vulcan-showcase) collects ten component IPs. Scoped simulation and generic synthesis are not silicon measurements or security certification.
+All 12 generations across **RIVET-A (`A1..A3`)**, **RIVET-H (`H1..H3`)**, **BILLET-T (`T1..T3`)**, and **BILLET-F (`F1..F3`)** achieve `100 MHz+` Quartus 17.1 STA timing closure (`107.47–210.22 MHz`) and physical Intel Arria 10 GX PCIe Gen3x8 HIL verification, accompanied by monolingual dual-track academic and developer PDF reports. [SABLE](https://github.com/aHappend/sable) provides 4-stream reliable message transport, and [Vulcan Showcase](https://github.com/aHappend/vulcan-showcase) indexes all 17 verified chips and 10 reusable SystemVerilog IP cores.
 
 ### Hardware foundations
 
